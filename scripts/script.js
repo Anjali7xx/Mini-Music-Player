@@ -194,7 +194,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "Sand Hoon Tere",
+          name: "Sang Hoon Tere",
           artist: "KK",
           cover: "img/24.jpg",
           source: "mp3/24.mp3",
